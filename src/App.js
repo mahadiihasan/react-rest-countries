@@ -16,7 +16,7 @@ function App() {
       <Person></Person>
       
       {/* use like this before making component folder */}
-      <LoadCountries></LoadCountries>
+      {/* use like this before making component folder */}
 
       
     </div>
